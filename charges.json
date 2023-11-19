@@ -610,7 +610,7 @@
         "color": "yellow"
     },
     { 
-        "id": 60,
+        "id": 61,
         "title": "Petty Theft / Shoplifting",
         "details": "A individual is guilty of this section if he/she knowingly takes property from a bussiness or person value at less than $250",
         "jailtime": 60,
@@ -620,7 +620,7 @@
         "color": "yellow"
     },
     { 
-        "id": 61,
+        "id": 62,
         "title": "Theft",
         "details": "A individual is guilty of this section if he/she knowingly takes property from a bussiness or person value at less than $5,000",
         "jailtime": 180,
@@ -630,7 +630,7 @@
         "color": "yellow"
     },
     { 
-        "id": 62,
+        "id": 63,
         "title": "Grand Theft",
         "details": "A individual is guilty of this section if he/she knowingly takes property from a bussiness or person value at more than $5,000",
         "jailtime": 180,
@@ -640,7 +640,7 @@
         "color": "yellow"
     },
     { 
-        "id": 63,
+        "id": 64,
         "title": "Grand Theft Auto",
         "details": "A individual is guilty of this section if he/she knowingly steals a car, motorcycle, or any other type of motor vehicle",
         "jailtime": 240,
@@ -650,7 +650,7 @@
         "color": "yellow"
     },
     { 
-        "id": 64,
+        "id": 65,
         "title": "Vandilism / Destruction Of Property",
         "details": "A individual is guilty of this section if he/she knowingly causes damage to or destroys the property of others",
         "jailtime": 180,
@@ -660,7 +660,7 @@
         "color": "yellow"
     },
     { 
-        "id": 65,
+        "id": 66,
         "title": "Bank Robbery",
         "details": "A individual is guilty of this section if he/she robs a bank and recieves any amount of cash or property of any value",
         "jailtime": 480,
@@ -670,7 +670,7 @@
         "color": "yellow"
     },
     { 
-        "id": 66,
+        "id": 67,
         "title": "Aggravated Bank Robbery",
         "details": "A individual is guilty of this section if he/she robs a bank and recieves any amount of cash or property of any value whilst acting in a threatening manor or brandoshing a firearm",
         "jailtime": 600,
@@ -680,7 +680,7 @@
         "color": "yellow"
     },
     { 
-        "id": 67,
+        "id": 68,
         "title": "Burgalry",
         "details": "A individual is guilty of this section if he/she is entering a residentioal or commercial building or room with the intent to commit a felony or a theft once inside",
         "jailtime": 180,
@@ -690,7 +690,7 @@
         "color": "yellow"
     },
     { 
-        "id": 68,
+        "id": 69,
         "title": "Trespassing",
         "details": "A inidividual is guilty of this section if the person enters or remains on or in property of another",
         "jailtime": 60,
@@ -700,7 +700,7 @@
         "color": "yellow"
     },
     { 
-        "id": 69,
+        "id": 70,
         "title": "Destruction Of Government property",
         "details": "A inidividual is guilty of this section if he/she knowingly causes damahae to or destroys the property of the government",
         "jailtime": 210,
@@ -710,7 +710,7 @@
         "color": "yellow"
     },
     { 
-        "id": 70,
+        "id": 71,
         "title": "Obstructing Justice",
         "details": "A individual is guilty of this section if he/she attempt to hinder the discovery, apprehension, conviction or punishment of anyone who has committed a crime including bribery",
         "jailtime": 180,
@@ -720,7 +720,7 @@
         "color": "brown"
     },
     { 
-        "id": 71,
+        "id": 72,
         "title": "Failure To Comply",
         "details": "A individual is guilty of this section if he/she fails to follow lawful requests or orders made by a peace officer or government official",
         "jailtime": 120,
@@ -730,7 +730,7 @@
         "color": "brown"
     },
     { 
-        "id": 71,
+        "id": 73,
         "title": "Failure To Identify",
         "details": "A individual is guilty of this section if he/she fails to identify themselves when requested by a peace officer or govenment official",
         "jailtime": 60,
@@ -740,7 +740,7 @@
         "color": "brown"
     },
     { 
-        "id": 71,
+        "id": 74,
         "title": "Evading Police",
         "details": "A individual is guilty of this section if he/she attempt to elude or resist law enfrocement by means of any motorized vehicle",
         "jailtime": 180,
@@ -750,7 +750,7 @@
         "color": "brown"
     },
     { 
-        "id": 72,
+        "id": 75,
         "title": "Felony Evading Police",
         "details": "A individual is guilty of this section if he/she commits the act of reckless driving while evading police",
         "jailtime": 240,
@@ -760,7 +760,7 @@
         "color": "brown"
     },
     { 
-        "id": 73,
+        "id": 76,
         "title": "Resisting Arrest",
         "details": "A individual is guilty of this section if he/she commits the offense of resisting arrest, search, or transportation when he or she intetionally prevents a peade officer from conducting a search or making an arrest",
         "jailtime": 60,
@@ -770,7 +770,7 @@
         "color": "brown"
     },
     { 
-        "id": 74,
+        "id": 77,
         "title": "Resisting Arrest With A Deadly Weapon",
         "details": "A individual is guilty of this section if he/she commits the offense of resisting arrest, search, or transportation when he or she intetionally prevents a peade officer from conducting a search or making an arrest with the use of a deadly weapon",
         "jailtime": 120,
@@ -780,7 +780,7 @@
         "color": "brown"
     },
     { 
-        "id": 75,
+        "id": 78,
         "title": "Possesion Of Marijuana With The Intent To Sell or Distribute",
         "details": "A individual is guilty of this section if he/she has in his/her possesion any amount of marijuana",
         "jailtime": 180,
@@ -790,7 +790,7 @@
         "color": "white"
     },
     { 
-        "id": 76,
+        "id": 79,
         "title": "Possesion Of A Controlled Substance",
         "details": "A individual is guilty of this section if he/she has in his/her possesion any amount of drugs other than marijuana or prescription drugs",
         "jailtime": 120,
@@ -800,7 +800,7 @@
         "color": "white"
     },
     { 
-        "id": 77,
+        "id": 80,
         "title": "Possesion Of Drug paraphernalia",
         "details": "A individual is guilty of this section if he/she has in his/her possesion any device or tool that could be used to inject or used to inhect or use any illegal drug",
         "jailtime": 60,
@@ -810,7 +810,7 @@
         "color": "white"
     },
     { 
-        "id": 77,
+        "id": 81,
         "title": "Possesion Of A Controlled Substance With The Intent To Sell or Distribute",
         "details": "A individual is guilty of this section if he/she has in his/her possesion any amount of marijuana with the intent to sell or distribute",
         "jailtime": 300,
@@ -820,7 +820,7 @@
         "color": "white"
     },
     { 
-        "id": 78,
+        "id": 82,
         "title": "Possesion Of A Automatic Rifle",
         "details": "A individual is guilty of this section if he/she hasin his/her possesion a rifle with full-auto",
         "jailtime": 120,
@@ -830,7 +830,7 @@
         "color": "white"
     },
     { 
-        "id": 79,
+        "id": 83,
         "title": "Possesion With The Intent To Instill Fear",
         "details": "An individual is guilty of this section if he/she has in his/her possesion of a firearm and uses it or displays it in a threatening manner to a person or property",
         "jailtime": 360,
@@ -840,7 +840,7 @@
         "color": "white"
     },
     { 
-        "id": 80,
+        "id": 84,
         "title": "Unlawful Concealed Carry Of A Handgun",
         "details": "An individual is guilty of this section if he/she has in his/her possesion a legal firearm that is not visible to the public without a concealed carry permit",
         "jailtime": 120,
@@ -850,7 +850,7 @@
         "color": "white"
     },
     { 
-        "id": 81,
+        "id": 85,
         "title": "Possesion Of A illegal Firearm",
         "details": "An individual is guilty of this section if he/she has in his/her possesion an illegal firearm that is not registerd with the state of Los Santos",
         "jailtime": 180,
@@ -860,7 +860,7 @@
         "color": "white"
     },
     { 
-        "id": 82,
+        "id": 86,
         "title": "Manufacture of A Controlled Substance With The Intent To Sell Or Distribute",
         "details": "An individual is guilty of this section if he/she knowingly produces or involved in the production of any controlled substance or marijuana",
         "jailtime": 360,
@@ -870,7 +870,7 @@
         "color": "white"
     },
     { 
-        "id": 83,
+        "id": 87,
         "title": "Unlawful Arrest",
         "details": "An individual is guilty of this section if he/she makes an arrest without lawful probable cause",
         "jailtime": 120,
@@ -880,7 +880,7 @@
         "color": "orange"
     },
     { 
-        "id": 84,
+        "id": 88,
         "title": "Excessive Use Of Force",
         "details": "An individual is guilty of this section if he/she makes an arrest without lawful probable cause",
         "jailtime": 120,
